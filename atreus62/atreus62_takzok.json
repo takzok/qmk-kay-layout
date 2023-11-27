@@ -286,7 +286,7 @@
       "KC_NO",
       "KC_NO",
       "KC_ACL2",
-      "KC_NO",
+      "KC_MPLY",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -298,7 +298,7 @@
       "KC_MS_U",
       "KC_MS_R",
       "KC_ACL1",
-      "KC_NO",
+      "KC_MSTP",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -310,7 +310,7 @@
       "KC_WH_U",
       "KC_WH_R",
       "KC_ACL0",
-      "KC_NO",
+      "KC_VOLU",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -324,7 +324,7 @@
       "KC_NO",
       "KC_NO",
       "KC_TRNS",
-      "KC_NO"
+      "KC_VOLD"
     ]
   ],
   "author": ""
